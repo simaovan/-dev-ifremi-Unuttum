@@ -1,0 +1,12 @@
+C:\Users\simao\source\repos\CSharpBruh\SifremiUnuttum1\bin\Debug\SifremiUnuttum1.exe.config
+C:\Users\simao\source\repos\CSharpBruh\SifremiUnuttum1\bin\Debug\SifremiUnuttum1.exe
+C:\Users\simao\source\repos\CSharpBruh\SifremiUnuttum1\bin\Debug\SifremiUnuttum1.pdb
+C:\Users\simao\source\repos\CSharpBruh\SifremiUnuttum1\obj\Debug\SifremiUnuttum1.csproj.AssemblyReference.cache
+C:\Users\simao\source\repos\CSharpBruh\SifremiUnuttum1\obj\Debug\SifremiUnuttum1.Form1.resources
+C:\Users\simao\source\repos\CSharpBruh\SifremiUnuttum1\obj\Debug\SifremiUnuttum1.Properties.Resources.resources
+C:\Users\simao\source\repos\CSharpBruh\SifremiUnuttum1\obj\Debug\SifremiUnuttum1.csproj.GenerateResource.cache
+C:\Users\simao\source\repos\CSharpBruh\SifremiUnuttum1\obj\Debug\SifremiUnuttum1.csproj.CoreCompileInputs.cache
+C:\Users\simao\source\repos\CSharpBruh\SifremiUnuttum1\obj\Debug\SifremiUnuttum1.exe
+C:\Users\simao\source\repos\CSharpBruh\SifremiUnuttum1\obj\Debug\SifremiUnuttum1.pdb
+C:\Users\simao\source\repos\CSharpBruh\SifremiUnuttum1\obj\Debug\SifremiUnuttum1.resetPassword.resources
+C:\Users\simao\source\repos\CSharpBruh\SifremiUnuttum1\obj\Debug\SifremiUnuttum1.sendCode.resources
